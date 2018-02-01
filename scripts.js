@@ -10,7 +10,7 @@ else if (value < 0) {
 	alert('Wynik ujemny = ' + value);
 	console.log ('Wynik ujemny');
 } 
-else if (value == 0) {
+else {
 	alert('Wynik równy ' + value);
 	console.log ('Wynik = 0');
 }
