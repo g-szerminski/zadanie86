@@ -5,12 +5,10 @@ console.log ('The result of the action with variable a: ' + a + ' and with varia
 if (value > 0)	{
 	alert('Wynik dodatni = ' + value);
 	console.log ('Wynik dodatni');
-} 
-else if (value < 0) {
+} else if (value < 0) {
 	alert('Wynik ujemny = ' + value);
 	console.log ('Wynik ujemny');
-} 
-else {
+} else {
 	alert('Wynik równy ' + value);
 	console.log ('Wynik = 0');
 }
